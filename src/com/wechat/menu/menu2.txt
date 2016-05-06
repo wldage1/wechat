@@ -1,0 +1,27 @@
+{
+    "button": [
+        {
+            "type": "click", 
+            "name": "今日歌曲22", 
+            "key": "V1001_TODAY_MUSIC"
+        }, 
+        {
+            "name": "菜单22", 
+            "sub_button": [
+                {
+                    "type": "click", 
+                    "name": "赞一下我们22", 
+                    "key": "V1001_GOOD"
+                }
+            ]
+        }
+    ], 
+    "matchrule": {
+        "group_id": "", 
+        "sex": "2", 
+        "country": "", 
+        "province": "", 
+        "city": "", 
+        "client_platform_type": ""
+    }
+}
